@@ -6,7 +6,7 @@
 </p> -->
 
 ---
-✨ I’m a product architect and a fullstack developer from India. I've worked in the field of software development, mobile app development, website development and graphics designing. My flexibility ranges from handling server-side frameworks to a UI/UX designer, web designer, app developer, presenter, facilitator and a lot more to be explored soon. 
+✨ I’m a product architect and a fullstack developer from India. My flexibility ranges from handling server-side frameworks to a UI/UX designer, web designer, app developer, presenter, facilitator and a lot more to be explored soon. 
 Passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
 
