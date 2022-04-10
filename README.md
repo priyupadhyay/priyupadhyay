@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**priyupadhyay/priyupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi there! I'm Priyank Upadhyay</h3>
+<!-- <p align="center">
+  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p> -->
 
-Here are some ideas to get you started:
+---
+✨ I’m a product architect and a fullstack developer from India. I've worked in the field of software development, mobile app development, website development and graphics designing. My flexibility ranges from handling server-side frameworks to a UI/UX designer, web designer, app developer, presenter, facilitator and a lot more to be explored soon. 
+Passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 😄 My Pronouns: He/Him  
+- 💬 Ask me about: Flutter, NodeJS, Go.
+- 📫 How to reach me: [@priyupadhyay](https://www.linkedin.com/in/priyupadhyay/)
+- 🔭 I’m currently working on: Cerbo 🤖
+- 🌱 I’m currently learning: Kubernetes
