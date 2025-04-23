@@ -11,7 +11,7 @@ Passionate about making the web accessible to everyone and advocating for buildi
 
 
 - 😄 My Pronouns: He/Him  
-- 💬 Ask me about: Flutter, NodeJS, Go.
+- 💬 Ask me about: Kubernetes, Golang, Systems Design.
 - 📫 How to reach me: [@priyupadhyay](https://www.linkedin.com/in/priyupadhyay/)
-- 🔭 I’m currently working on: Cerbo 🤖
-- 🌱 I’m currently learning: Kubernetes
+- 🔭 I’m currently working on: Kubernetes and AI 🤖
+- 🌱 I’m currently learning: Agentic AI
