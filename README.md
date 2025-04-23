@@ -9,8 +9,7 @@
 ✨ I’m a product architect and a fullstack developer from India. My flexibility ranges from handling server-side frameworks to a UI/UX designer, web designer, app developer, presenter, facilitator and a lot more to be explored soon. 
 Passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-
-- 😄 My Pronouns: He/Him  
+ 
 - 💬 Ask me about: Kubernetes, Golang, Systems Design.
 - 📫 How to reach me: [@priyupadhyay](https://www.linkedin.com/in/priyupadhyay/)
 - 🔭 I’m currently working on: Kubernetes and AI 🤖
